@@ -1,3 +1,11 @@
+// funcion para factorialde un numero
+function factorial(num1){
+    var total = 1;
+    for(i = 1; i <= num1; i++){
+        total = total * i;
+    }
+    return total;
+}
 //funcion para dividir dos numeros
 function dividir(num1, num2){
     return num1 / num2;
