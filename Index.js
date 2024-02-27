@@ -1,3 +1,7 @@
+//funcion para sacar el exponente de un numero 
+function exponente(num1, exponenteNum) {
+    return Math.pow(num1, exponenteNum);
+}
 // funcion para factorialde un numero
 function factorial(num1){
     var total = 1;
