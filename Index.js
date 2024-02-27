@@ -1,3 +1,7 @@
+// funcion para multiplicar dos numeros
+function multiplicar(num1, num2){
+    return num1 *num2;
+}
 // funcion para restar dos numeros 
  function restar(num1, num2){
     return num1 - num2;
