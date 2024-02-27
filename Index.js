@@ -1,5 +1,8 @@
-
-  // Función para sumar dos números
+// funcion para restar dos numeros 
+ function restar(num1, num2){
+    return num1 - num2;
+ }
+ // Función para sumar dos números
 function sumar(num1, num2) {
     return num1 + num2;
   }
